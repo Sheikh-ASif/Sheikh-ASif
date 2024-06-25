@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Full Stack Development
-- 🌱 I’m currently learning from collage and Youtube
+- 🌱 I’m currently learning and try to gain more and more skills and knowledge in the feild of the Technologies and Their language
 
 
 
