@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I love debugging complex code and think fixing integration bugs is oddly satisfying**
 
 <h3 align="left">Connect with me:</h3> 
-<p>Linkedin</p><a>in/md-asif-sheikh-74b3b52b8</a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
 <p align="left">
 </p>
 
