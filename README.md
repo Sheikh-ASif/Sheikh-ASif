@@ -19,7 +19,8 @@
 
 - ⚡ Fun fact **I love debugging complex code and think fixing integration bugs is oddly satisfying**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
+<p>Linkedin</p><a>in/md-asif-sheikh-74b3b52b8</a>
 <p align="left">
 </p>
 
