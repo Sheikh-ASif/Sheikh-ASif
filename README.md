@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikh-asif&label=Profile%20views&color=0e75b6&style=flat" alt="sheikh-asif" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikh-asif" alt="sheikh-asif" /></a> </p>
 
 - 🌱 I’m currently learning **Advanced React concepts, TypeScript, performance optimization, CI/CD for full Stack projects**
 
