@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Frontend testing frameworks (Jest/React Testing Library), authentication best practices**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-tr2u.vercel.app/](https://portfolio-website-tr2u.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-website-tr2u.vercel.app/](https://portfolio-website-omega-ten-34.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React.js, Node.js, MongoDB, RESTful APIs, fullstack architecture**
 
